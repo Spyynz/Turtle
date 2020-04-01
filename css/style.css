@@ -10,14 +10,14 @@
 	overflow-x: hidden;
 	padding-top: 60px;
 	transition: 0.7s;
-	border-right: solid red 1px;
+	border-right: solid green 1px;
 }
 .nav a {
 	display: block;
 	padding: 20px 30px;
 	font-size: 25px;
 	text-decoration: none;
-	color: #a21212;
+	color: #00BD03;
 }
 .nav a:hover {
 	color: #fff;
@@ -41,8 +41,8 @@
 	width: 100%;
 }
 .fa-bars {
-	color: #a21212;
+	color: #00BD03;
 }
 .fa-times {
-	color: #a21212;
+	color: #00BD03;
 }
