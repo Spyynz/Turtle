@@ -3,11 +3,15 @@ font-family: verdana;
 }
 .header {
 	font-family: verdana;
+	color: black;
 	text-align: center;
+	background-color: B7FFB8;
 }
 .body {
 	font-family: verdana;
+	color: black;
 	text-align: center;
+	background-color: B7FFB8;
 }
 .nav {
 	height: 100%;
