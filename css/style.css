@@ -1,6 +1,9 @@
 @fontface {
 font-family: verdana;
 }
+.header {
+	font-family: verdana
+}
 .body {
 	font-family: verdana;
 }
