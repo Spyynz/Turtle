@@ -2,10 +2,12 @@
 font-family: verdana;
 }
 .header {
-	font-family: verdana
+	font-family: verdana;
+	text-align: center;
 }
 .body {
 	font-family: verdana;
+	text-align: center;
 }
 .nav {
 	height: 100%;
