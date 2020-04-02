@@ -9,13 +9,13 @@ transform: translateY(0px);
 }
 }
 .header {
-	animation: transitionIn 1.2s;
+	animation: transitionIn 1.4s;
 	font-family: verdana;
 	color: black;
 	text-align: center;
 }
 .body {
-	animation: transitionIn 1.8s;
+	animation: transitionIn 2.4s;
 	font-family: verdana;
 	color: black;
 	text-align: center;
