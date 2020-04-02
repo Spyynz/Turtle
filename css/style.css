@@ -1,12 +1,21 @@
-@fontface {
-font-family: verdana;
+@keyframes transitionIn {
+from {
+opacity: 0;
+transform: translateY(-20px);
+}
+to {
+opacity: 1;
+transform: translateY(0px);
+}
 }
 .header {
+	animation: transitionIn 1.2s;
 	font-family: verdana;
 	color: black;
 	text-align: center;
 }
 .body {
+	animation: transitionIn 1.8s;
 	font-family: verdana;
 	color: black;
 	text-align: center;
